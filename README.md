@@ -1,8 +1,5 @@
-<h1 align="center">🌿超星学习通签到🌿</h1>
+<h1 align="center">超星学习通签到</h1>
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Licence](https://img.shields.io/github/license/cxOrz/chaoxing-sign-cli?style=for-the-badge)
 
 基于 Nodejs 实现的一个签到命令行工具。
 
@@ -12,11 +9,7 @@
 
 ## 环境 💻
 
-可在任意运行 [NodeJS](https://nodejs.org/en/) > v16.14 的平台签到，Windows、MacOS、Linux ... 
-
-安卓手机上可以用 Termux 来运行NodeJS程序，[查看Termux教程](./src/docs/termux.md) 。
-
-苹果手机请查看 [高级](https://github.com/cxOrz/chaoxing-sign-cli#%E9%AB%98%E7%BA%A7-) 部分，通过这种方式来使用，当然这种方式也适用于其他。
+ [NodeJS](https://nodejs.org/en/) > v16.14 的平台签到Windows、MacOS、Linux ... 
 
 ## 部署 🛠
 
